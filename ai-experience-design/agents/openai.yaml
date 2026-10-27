@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI产品设计与交付工作流"
+  short_description: "内置 AI 需求模板与六种网页风格，按范围完成设计、实现和验证"
+  default_prompt: "使用 $ai-experience-design 根据以下需求建立适用的 AI Native PRD，并在授权范围内连续完成设计、实现、验证和交付；复用已有成果，明确假设、模拟及待验证事项。"
